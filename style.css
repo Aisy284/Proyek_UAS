@@ -189,7 +189,7 @@ html{
     color: rgb(255, 255, 255);
 }
 
-/* ========== HALAMAN gunung (Mountain page) ========== */
+/* ========== HALAMAN GUNUNG (MOUNTAIN PAGE) ========== */
 .camping-page{
     background-color: #e4e19a;
 }
@@ -402,8 +402,7 @@ html{
     cursor: pointer;
 }
 
-/* =========== HALAMAN TRAVEL / MUDIK
-   ============ */
+/* =========== HALAMAN TRAVEL / MUDIK ============ */
 .travel-page {
     background: linear-gradient(135px, #111827 0%, #312e81 100%);
     background-color: #e4e19a;
